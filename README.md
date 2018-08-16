@@ -10,12 +10,12 @@ The Widget Instagram Fetcher is a wordpess plugin to display your Instagram rece
 
 The Widget Instagram Fetcher Shows your Instagram recent posts on your Wordpress website. It enables you to control:
 
- ###  1. displaying the number of likes                        
- ###  2. displaying the number of comments                       
- ###  3. displaying the created dates                    
- ###  4. Showing posts captions                                 
- ###  5. Using the custom captions instead of original captions                       
- ###  6. Some styles for images                           
+ ####  1. displaying the number of likes                        
+ ####  2. displaying the number of comments                       
+ ####  3. displaying the created dates                    
+ ####  4. Showing posts captions                                 
+ ####  5. Using the custom captions instead of original captions                       
+ ####  6. Some styles for images                           
 
 To use this widget, at first you must provide an access token to your Instagram page. It is an essential parameter for fetching data from Instagram. The number of likes, comments and created dates of Instagram posts are shown on images hover.
 
