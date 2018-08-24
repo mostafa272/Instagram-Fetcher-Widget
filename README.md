@@ -53,7 +53,7 @@ Now we explain about CSS classes are used in Widget Instagram Fetcher :
 
 ## Installation                          
 
-Upload the Widget Instagram Fetcher plugin to your blog, Activate it.                             
+Download widget-instagram-fetcher.zip file and upload it to your blog, then activate it. If you download release file, you should extract it to find widget-instagram-fetcher.zip file.                                                                
                                 
                                 
 ## Donate to support us                                
